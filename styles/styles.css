@@ -144,7 +144,7 @@ footer p a:hover {
     text-decoration: underline;
 }   
 nav {
-    background-color: aquamarine;
+    background-color: #48cae4;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
